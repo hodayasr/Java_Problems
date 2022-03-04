@@ -1,7 +1,5 @@
 package myProject;
 
-//you can also use imports, for example:
-//import java.util.*;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
